@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ShaikJunaid9
-- 🌱 I’m currently learning PhP
 - 📫 email - shaikjunaid96@outlook.com
 - 🙂 smile even if you use notepad to code
 <!---
