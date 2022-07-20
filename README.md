@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaikJunaid9
+- 👋 Hi, I’m Shaik Junaid
 - 📫 email - shaikjunaid96@outlook.com
 - 🙂 smile even if you use notepad to code
 <!---
